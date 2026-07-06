@@ -72,10 +72,10 @@ $$menu_items[6]  = "（ ）　全角丸括弧(&7)";
 $$menu_items[7]  = "【 】　全角隅付き括弧(&8)";
 $$menu_items[8]  = "環境変数形式　編集中の拡張子で自動切替(&E)";
 $$menu_items[9]  = "\x01";
-$$menu_items[10] = "/* */　ブロックコメント(&A)";
-$$menu_items[11] = "/** */　Docブロックコメント(&B)";
-$$menu_items[12] = "<!-- -->　HTMLコメント(&C)";
-$$menu_items[13] = "<% %>　テンプレートタグ(&D)";
+$$menu_items[10] = "/* */　ブロックコメント(&C)";
+$$menu_items[11] = "/** */　Docブロックコメント(&D)";
+$$menu_items[12] = "<!-- -->　HTMLコメント(&H)";
+$$menu_items[13] = "<% %>　テンプレートタグ(&T)";
 
 menuarray $$menu_items, 14;
 
